@@ -1162,39 +1162,40 @@ CreateScript("Dex",function()
 end)
 
 CreateScript("Rekt Hub",function()
-loadstring(game:HttpGet(("https://paste.website/p/fce88396-87e3-4ed8-bb8c-1593ff174d0d.txt"), true))()
+loadstring(game:HttpGet("https://paste.website/p/fce88396-87e3-4ed8-bb8c-1593ff174d0d.txt"), true))()
 end)
 
 CreateScript("Red All",function()
-loadstring(game:HttpGet(("https://paste.website/p/a6956ce1-5a86-4da8-887f-5f828b44dd0a.txt"), true))() -- Red all
+loadstring(game:HttpGet("https://paste.website/p/a6956ce1-5a86-4da8-887f-5f828b44dd0a.txt"), true))() -- Red all
 end)
 
 CreateScript("HD Admin Brickspam",function()
-loadstring(game:HttpGet(("https://paste.website/p/fcfa5271-b26f-4611-bea6-9c369dc73546.txt"), true))() -- Hd brickspam
+loadstring(game:HttpGet("https://paste.website/p/fcfa5271-b26f-4611-bea6-9c369dc73546.txt"), true))() -- Hd brickspam
 end)
 
 CreateScript("Bread",function()
-loadstring(game:HttpGet(("https://paste.website/p/67e65cf2-1afe-4467-b04c-5ec95566807c.txt"), true))() -- bread
+loadstring(game:HttpGet("https://paste.website/p/67e65cf2-1afe-4467-b04c-5ec95566807c.txt"), true))() -- bread
 end)
 
 CreateScript("Bat Gui",function()
-loadstring(game:HttpGet(("https://paste.website/p/cf170836-00b6-480f-b3a4-6170a4ed730f.txt"), true))() -- Bat gui
+loadstring(game:HttpGet("https://paste.website/p/cf170836-00b6-480f-b3a4-6170a4ed730f.txt"), true))() -- Bat gui
 end)
 
 CreateScript("Box Admin",function()
-loadstring(game:HttpGet(("https://paste.website/p/166b9fb0-5ab6-4555-911d-0c7e4af9b608.txt"), true))() -- Box admin
+loadstring(game:HttpGet("https://paste.website/p/166b9fb0-5ab6-4555-911d-0c7e4af9b608.txt"), true))() -- Box admin
 end)
 
 CreateScript("WeAreSkids",function()
-loadstring(game:HttpGet(("https://paste.website/p/fb3f5729-dd7b-44af-a145-3badfffb755a.txt"), true))() -- WeAreSkids
+loadstring(game:HttpGet("https://paste.website/p/fb3f5729-dd7b-44af-a145-3badfffb755a.txt"), true))() -- WeAreSkids
 end)
 
 CreateScript("Redwood Ruinier",function()
-loadstring(game:HttpGet(("https://paste.website/p/aff15b93-2531-4d9b-a62a-1108fd125e24.txt"), true))() -- red wood
+loadstring(game:HttpGet(
+("https://paste.website/p/aff15b93-2531-4d9b-a62a-1108fd125e24.txt"), true))() -- red wood
 end)
 
 CreateScript("Tycoon Hax",function()
-loadstring(game:HttpGet(("https://rawscripts.net/raw/Super-Hero-Tycoon-Haxx-9731"), true))()
+loadstring(game:HttpGet("https://rawscripts.net/raw/Super-Hero-Tycoon-Haxx-9731"), true))()
 end)
 
 CreateScript("ScriptBlox Searcher",function()
